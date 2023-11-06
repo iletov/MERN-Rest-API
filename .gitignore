@@ -14,7 +14,7 @@ dist-ssr
 
 .env
 Notes.txt
-
+.gitignore
 
 # Editor directories and files
 .vscode/*
