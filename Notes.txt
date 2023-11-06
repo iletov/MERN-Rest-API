@@ -1,0 +1,8 @@
+npm init -y
+  package.json => "type": "module",
+npm i express nodemon
+npm i mongoose
+
+mongodb+srv://letov88:<password>@books-store-mern.t9u97kj.mongodb.net/
+
+npm i cors
